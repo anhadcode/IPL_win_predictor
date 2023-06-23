@@ -27,7 +27,7 @@ logo= {
         'Mumbai Indians':'mi.png',
         'Royal Challengers Bangalore':'rcb.png',
         'Kolkata Knight Riders':'kkr.png',
-        'Kings XI Punjab':'pkings',
+        'Kings XI Punjab':'pkings.png',
         'Chennai Super Kings':"Chennai-Super-Kings.jpg",
         'Rajasthan Royals':'rr.png',
         'Delhi Capitals':'dc.png'
